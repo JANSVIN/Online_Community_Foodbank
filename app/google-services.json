@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353059675998",
+    "firebase_url": "https://foodbank-25692-default-rtdb.firebaseio.com",
+    "project_id": "foodbank-25692",
+    "storage_bucket": "foodbank-25692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353059675998:android:3f02cd6399dc5dfc49f9cf",
+        "android_client_info": {
+          "package_name": "com.example.foodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353059675998-svovpfdqf7ung1bom50ebanai8kn9udg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34qwRHCOi7sruoakIe100AB62fB3Sgqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353059675998-svovpfdqf7ung1bom50ebanai8kn9udg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
